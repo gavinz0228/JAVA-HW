@@ -1,0 +1,20 @@
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java Lottery
+3 Numbers will be generated from 1 to 59
+The lottery numbers are: 33 19 29 (shu!~~)
+Please type in 3 numbers you want to guess.
+33 19 29
+You got all numbers correct and in right order! You won $10,000!
+
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java Lottery
+3 Numbers will be generated from 1 to 59
+The lottery numbers are: 29 22 37 (shu!~~)
+Please type in 3 numbers you want to guess.
+22 37 29
+All numbers matched, you won $3,000!
+
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java Lottery
+3 Numbers will be generated from 1 to 59
+The lottery numbers are: 22 2 20 (shu!~~)
+Please type in 3 numbers you want to guess.
+2 8 9
+One number matched, you won $1,000!
