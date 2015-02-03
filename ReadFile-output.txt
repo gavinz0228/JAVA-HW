@@ -1,4 +1,4 @@
-C:\Users\Gavin\SkyDrive\Java HW\HW1>java ReadFile
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java ReadFile< file_input.txt
 123.0
 456.0
 78.0
