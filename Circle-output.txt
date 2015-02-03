@@ -1,0 +1,48 @@
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java Circle
+Please type in the x of the circle center 1
+0
+Please type in the y of the circle center 1
+0
+Please type in the radius of circle 1
+5
+Please type in the x of the circle center 2
+0
+Please type in the y of the circle center 2
+0
+Please type in the radius of circle 2
+3
+One of them is completely within another.
+
+C:\Users\Gavin\SkyDrive\Java HW\HW1>0
+'0' is not recognized as an internal or external comma
+operable program or batch file.
+
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java Circle
+Please type in the x of the circle center 1
+0
+Please type in the y of the circle center 1
+0
+Please type in the radius of circle 1
+3
+Please type in the x of the circle center 2
+5
+Please type in the y of the circle center 2
+0
+Please type in the radius of circle 2
+2
+They are touching each other.
+
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java Circle
+Please type in the x of the circle center 1
+0
+Please type in the y of the circle center 1
+0
+Please type in the radius of circle 1
+3
+Please type in the x of the circle center 2
+3
+Please type in the y of the circle center 2
+0
+Please type in the radius of circle 2
+1
+They are overlapping.
