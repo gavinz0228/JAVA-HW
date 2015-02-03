@@ -1,0 +1,16 @@
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 2 (Two)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 1 (One)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 11 (Eleven)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 9 (Nine)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 7 (Seven)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 6 (Six)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 12 (Twelve)
+C:\Users\Gavin\SkyDrive\Java HW\HW1>java RandomNumber
+The number got randomly generated is 2 (Two)
