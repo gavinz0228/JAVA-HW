@@ -7,7 +7,7 @@ class GuessNumber
 		System.out.println("This program will generate a number from 1 to 50, take your guess.");
 		Random ran=new Random();
 		int answer=ran.nextInt(50)+1;
-		System.out.println(answer);
+		//System.out.println(answer);
 
 		Scanner input=new Scanner(System.in);
 		while (true&&input.hasNextInt())
