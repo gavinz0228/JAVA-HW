@@ -4,8 +4,7 @@ class ReadFile
 {
 	public static void main(String[] args)throws IOException
 	{
-		File file=new File("file_input.txt");
-		Scanner input =new Scanner(file);
+		Scanner input =new Scanner(System.in);
 		while(input.hasNextDouble())
 		{
 			System.out.println(input.nextDouble());
