@@ -113,6 +113,7 @@ class EightQueen
 	}
 	public boolean checkDiagonal(int col,int row)
 	{
+		/*
 		if(getCell(col-1,row-1)==1)
 			return false;
 		else if(getCell(col+1,row-1)==1)
@@ -123,6 +124,55 @@ class EightQueen
 			return false;
 		else
 			return true;
+		*/
+		//diagonal has 4 directions top left,bottom left,top right and bottom right
+		int c=col;
+		int r=row;
+		//top left
+		while(c>=0&&r>=0)
+		{
+
+			if(getCell(c,r)==1)
+				return false;
+			c--;
+			r--;
+		}
+		c=col;
+		r=row;
+		
+		//bottom right
+		while(c<SIZE||r<SIZE)
+		{
+			
+			if(getCell(c,r)==1)
+				return false;
+			c++;
+			r++;
+			
+		}
+		
+		c=col;
+		r=row;
+		//top right
+		while(c<SIZE&&r>=0)
+		{
+			if(getCell(c,r)==1)
+				return false;
+			c++;
+			r--;
+		}
+		c=col;
+		r=row;
+		//bottom left
+		while(c>=0&&r<SIZE)
+		{
+			if(getCell(c,r)==1)
+				return false;
+			c--;
+			r++;
+		}
+
+		return true;
 	}
 	//check if a cell has a queen
 	public int getCell(int col,int row) 
