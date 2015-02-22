@@ -1,7 +1,0 @@
-5
-The area is:78.54
-1
-The area is: 3.14
-10
-The area is:314.16
-^D

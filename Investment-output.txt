@@ -1,7 +1,0 @@
-Type in the investment amount:
-1000
-Type in the interest rate:
-0.003
-Type in the number of years:
-5
-The future investment value is    1196.89 .
