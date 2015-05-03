@@ -1,0 +1,12 @@
+D:\HW\OOP\hw9>javac DBOperation.java
+
+D:\HW\OOP\hw9>java -cp D:\HW\OOP\hw7\mysql-connector-java-5.1.35-bin.jar; DBOper
+ation
+creating database
+creating table
+add two records
+update one record
+1       JDBC    database operation with Java
+2       IO      print a tree view of a folder
+now delete one row
+Number of records now 1
