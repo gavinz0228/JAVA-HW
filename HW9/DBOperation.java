@@ -86,7 +86,7 @@ public class DBOperation
             System.out.println("Number of records now "+rsCount.getString(1));
         
         ResultSet rs=db.executeQuery("SELECT id,title,intro from hw9.hw");
-        
+        db.close();
         
     }
 }
